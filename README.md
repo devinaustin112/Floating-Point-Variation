@@ -36,3 +36,9 @@ the non-associativity of IEEE floating point numbers.
 ### mg
   - Part of the NAS parallel Benchmark suite. We run MG with the class size A which
     takes about one second per run.
+    
+### Contributors
+  - Logan Gregory (https://github.com/logangregorym)
+  - Loni Marie (https://github.com/lonimarie)
+  - Maggie Duke (https://github.com/dukema)
+  - Devin Dyer (https://github.com/devinaustin112)
